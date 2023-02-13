@@ -1,0 +1,11 @@
+:root {
+  --brand-color: #0c6cf3;
+}
+
+body {
+  font-family: Sans-Serif;
+}
+
+.title {
+  color: var(--brand-color);
+}
