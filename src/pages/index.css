@@ -9,3 +9,12 @@ body {
 .title {
   color: var(--brand-color);
 }
+
+
+.mainTitle {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+
